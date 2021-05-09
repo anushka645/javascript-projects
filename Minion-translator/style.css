@@ -55,10 +55,10 @@ body{
 }
 @media only screen and (max-width:600px){
     .nav-brand{
-        font-size: 35px;
+        font-size: 25px;
     }
     .img-eye{
-        width: 80px;
+        width: 65px;
     }
     
 }
